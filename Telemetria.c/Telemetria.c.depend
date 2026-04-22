@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776875931 source:c:\users\acer\onedrive\Área de trabalho\pratica\telemetria.c\main.c
+	<stdio.h>
+	<locale.h>
+
